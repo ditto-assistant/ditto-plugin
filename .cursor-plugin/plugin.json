@@ -1,0 +1,31 @@
+{
+  "name": "ditto",
+  "displayName": "Ditto",
+  "version": "0.1.0",
+  "description": "Your Ditto memory across apps. Search and fetch your memories, explore people and projects in your knowledge graph, and save decisions and facts through Ditto's hosted MCP server. Sign in with your Ditto account (OAuth); no API key needed.",
+  "author": {
+    "name": "Omni Aura LLC",
+    "email": "support@heyditto.ai"
+  },
+  "publisher": "Omni Aura LLC",
+  "homepage": "https://heyditto.ai",
+  "repository": "https://github.com/ditto-assistant/ditto-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "ditto",
+    "heyditto",
+    "ditto memory",
+    "ditto mcp",
+    "memory",
+    "knowledge-graph"
+  ],
+  "category": "productivity",
+  "tags": [
+    "ditto",
+    "memory",
+    "mcp",
+    "knowledge-graph"
+  ],
+  "mcpServers": "./mcp.json"
+}
